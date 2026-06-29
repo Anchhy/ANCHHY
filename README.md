@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Anchhy! 👋
 
-<!--
-**Anchhy/ANCHHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web Developer and a Year 4 Information & Communication Engineering student. I love building full-stack web applications that are fast, secure, and easy to use.
 
-Here are some ideas to get you started:
+### 🔭 What I am working on
+* I am developing **NearMe Social**, a location-based web application for nearby discovery and community chat.
+* I write code using modern frontend and backend frameworks to create complete digital experiences from start to finish.
+* I am building real-time notification systems and managing secure user data with relational databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 My Goals
+I am currently looking for a **Web Development Internship**. I want to join a collaborative team where I can use my full-stack experience to build dynamic projects and learn new things. 
+
+### 📫 How to reach me
+* **Email:** etanchhy@gmail.com
+* **GitHub:** [github.com/Anchhy](https://github.com/Anchhy)
+
+---
+*Feel free to look around my repositories to see the web projects I am building!*
