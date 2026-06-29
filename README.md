@@ -3,7 +3,6 @@
 I am a Web Developer and a Year 4 Information & Communication Engineering student. I love building full-stack web applications that are fast, secure, and easy to use.
 
 ### 🔭 What I am working on
-* I am developing **NearMe Social**, a location-based web application for nearby discovery and community chat.
 * I write code using modern frontend and backend frameworks to create complete digital experiences from start to finish.
 * I am building real-time notification systems and managing secure user data with relational databases.
 
