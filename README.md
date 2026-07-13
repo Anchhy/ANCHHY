@@ -12,7 +12,7 @@ I am currently looking for a **Web Development Internship**. I want to join a co
 ### 📫 How to reach me
 * **Email:** etanchhy@gmail.com
 * **GitHub:** [github.com/Anchhy](https://github.com/Anchhy)
-* **telegram:** [ET Anchhy](t.me//anchhyet)
+* **telegram:** [ET Anchhy](t.me/anchhyet)
 
 ---
 *Feel free to look around my repositories to see the web projects I am building!*
